@@ -10,7 +10,7 @@
 		"pyrogram",
 		"productivity"
 	],
-	"repository": "https://github.com/TeamAsterix/AsterixUB/",
+	"repository": "https://github.com/Recordu45/AsterixUB/",
 	"website": "https://t.me/teamasterix",
 	"success_url": "/welcome",
 	"env": {
